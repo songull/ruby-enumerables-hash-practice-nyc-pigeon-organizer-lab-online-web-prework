@@ -10,7 +10,7 @@ def nyc_pigeon_organizer(data)
     :female => ["Lola"]
   },
   :lives => {
-    "Central Park" => ["Lola", "alex"],
+    "Central Park" => ["Lola", "alex", "Lucky"],
     "Library" => ["pete"],
     "subway" => ["pete"]
   }
