@@ -1,7 +1,7 @@
 def nyc_pigeon_organizer(data)
   pigeons = {
   :theo => {
-    :purple => ["Theo"],
+    :purple => ["Theo", "Lucky"],
     :grey => ["Theo"],
   },
   :gender => {
