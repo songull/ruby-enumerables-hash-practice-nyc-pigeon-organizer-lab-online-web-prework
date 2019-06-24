@@ -6,6 +6,7 @@ def nyc_pigeon_organizer(data)
   },
   :gender => {
     :male => ["pete"],
+    :male => ["Theo"],
     :female => ["Lola"]
   },
   :lives => {
