@@ -11,6 +11,7 @@ def nyc_pigeon_organizer(data)
   :lives => {
     "Central Park" => ["Lola"],
     "Library" => ["pete"]
+    "subway" => ["pete"]
   }
 }
 end
