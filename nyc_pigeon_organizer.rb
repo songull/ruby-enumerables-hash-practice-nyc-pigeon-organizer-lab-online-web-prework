@@ -1,15 +1,15 @@
 def nyc_pigeon_organizer(data)
   pigeon_data = {
     :color => {
-      :brown => ["Luca"],
-      :black => ["Lola"],
+      :brown => ["Alex"],
+      :white => ["Alex"],
     },
     :gender => {
-      :male => ["Luca"],
+      :male => ["Alex"],
       :female => ["Lola"]
     },
     :lives => {
-      "Central Park" => ["Lola"],
+      "Central Park" => ["Alex"],
       "Library" => ["Luca"]
     }
   }
